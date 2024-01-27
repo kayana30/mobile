@@ -1,1 +1,2 @@
 # mobile
+In contemporary Sri Lankan society, the safety of women is an escalating concern, with incidents of violence, harassment, and abuse persistently affecting them in diverse settings, including homes, workplaces, and public spaces. This app aims to address these pressing issues by offering innovative solutions. Through its comprehensive features, the app endeavors to create a secure environment, prioritizing the well-being of women in all facets of their lives.

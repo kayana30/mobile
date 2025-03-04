@@ -1,4 +1,4 @@
-# mobile
+# Women Safety App
 In contemporary Sri Lankan society, the safety of women is an escalating concern, with incidents of violence, harassment, and abuse persistently affecting them in diverse settings, including homes, workplaces, and public spaces. This app aims to address these pressing issues by offering innovative solutions. Through its comprehensive features, the app endeavors to create a secure environment, prioritizing the well-being of women in all facets of their lives.
 
 ![main](https://github.com/kayana30/mobile/assets/90521483/787dd849-d3b3-4dbe-bd69-513ad22e664c)
